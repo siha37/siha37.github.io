@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: SIHA # the website title (if blank, full name will be used instead)
+first_name:
+middle_name:
+last_name:
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: "SIHA's blog" # blog_name will be displayed in your blog page
+blog_description: 게임 프로그램 자기계
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -100,6 +100,7 @@ related_blog_posts:
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
+# 댓글 기능 Repository
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
   repo: # <your-github-user-name>/<your-github-repo-name>
