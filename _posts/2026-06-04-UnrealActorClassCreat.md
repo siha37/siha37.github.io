@@ -7,7 +7,7 @@ tags: [til,unreal]
 render_with_liquid: false
 ---
 
-# C++ Class 추가
+## C++ Class 추가
 
 1. Unreal 에디터 상단 Tool-> New C++ Class 선택
 2. Actor를 클릭하고 이름을 설정
@@ -17,14 +17,14 @@ render_with_liquid: false
 ![ActorClass 추가](/assets/img/26-06-04/스크린샷%202026-06-04%20200640.png)
 
 
-# C++ 클래스 생성 위치
+## C++ 클래스 생성 위치
 
 방금 생성한 소스코드는 .h는 Public 폴더에  .cpp는 Private 폴더에 들어가며
 다른 모듈에서 쉽게 접근 가능해 진다.
 
 반대로 Private를 설정하여 생성하면 .h .cpp 둘다 Private 폴더에 들어가며 외부 노출이 안된다.
 
-# 클래스 삭제
+## 클래스 삭제
 >Unity는 단순하게 스크립트 파일을 제거하면 바로 적용이 되지만 Unreal은 과정이 복잡하다.
 
 1. Visual Studio에서 소스코드 파일을 제거
@@ -32,7 +32,7 @@ render_with_liquid: false
 3. Visual Studio 빌드
 4. 에디터 재실행
 
-# Actor Class 파악하기
+## Actor Class 파악하기
 
 ```
 #pragma once
