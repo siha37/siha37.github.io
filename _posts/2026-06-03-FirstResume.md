@@ -1,8 +1,8 @@
 ---
 title: Writing a New Post
 author: cotes
-date: 2019-08-08 14:10:00 +0800
-categories: [TLI, 커리어]
+date: 2026-06-03 14:10:00 +0800
+categories: [TIL, 커리어]
 tags: [test]
 render_with_liquid: false
 ---
