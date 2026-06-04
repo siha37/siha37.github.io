@@ -17,7 +17,7 @@ render_with_liquid: false
 | 채용공고 워크샵                       |
 
 
-# [Unreal Visual Studio 솔루션 구조 이해](https://siha37.github.io/posts/UnrealVisualStudioSolution)
+# [Unreal Visual Studio 솔루션 구조 이해](/posts/UnrealVisualStudioSolution)
 
 # Live Coding
 > Unreal 엔진이 실행되는 동안 C++ 코드를 수정하고 실시간 컴파일하여 결과물을 엔진에 반영할 수 있게 해주는 시스템
@@ -27,7 +27,7 @@ render_with_liquid: false
 - 복잡학 C++ 코드를 변경할 경우 적용되지 않는 경우도 존재한다.
 - 빠른 적용을 위해 patch 파일 형태로 컴파일하는데 해당 파일은 바이너리에 영구 저장이 아니여서 빌드하지 않고 에디터를 종료하거나 비정상 종료되면 해당 작업 내용이 날아감
 
-# [Actor Class 생성](https://siha37.github.io/posts/UnrealActorClass생성)
+# [Actor Class 생성](/posts/UnrealActorClassCreat)
 
 
 # 어려웠던 점
