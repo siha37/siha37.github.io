@@ -1,13 +1,13 @@
 ---
 title: "[TIL]Unreal 엔진 빌드 프로세스"
-author: cotes
+author: siha
 date: 2026-06-04 19:10:00 +0800
-categories: [TIL, UNREAL]
+categories: [TIL]
 tags: [til,unreal]
 render_with_liquid: false
 ---
 
-## 오늘 한것
+## 오늘 한 것
 
 
 | 오늘 한 것                            |

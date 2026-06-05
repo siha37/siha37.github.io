@@ -1,6 +1,6 @@
 ---
 title: Unreal Actor Class 생성
-author: cotes
+author: siha
 date: 2026-06-04 19:10:00 +0800
 categories: [Unreal]
 tags: [til,unreal]

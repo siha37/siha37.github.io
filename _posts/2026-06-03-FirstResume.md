@@ -1,8 +1,8 @@
 ---
-title: Writing a New Post
-author: cotes
+title: "[TIL]첫 이력서 작성"
+author: siha
 date: 2026-06-03 14:10:00 +0800
-categories: [TIL, 커리어]
+categories: [TIL]
 tags: [test]
 render_with_liquid: false
 ---

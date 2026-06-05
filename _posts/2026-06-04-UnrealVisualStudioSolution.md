@@ -1,6 +1,6 @@
 ---
 title: Unreal Visual Studio 솔루션 구조 이해
-author: cotes
+author: siha
 date: 2026-06-04 19:10:00 +0800
 categories: [Unreal]
 tags: [til,unreal]
