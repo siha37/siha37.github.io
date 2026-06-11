@@ -1,7 +1,7 @@
 ---
 title: "[TIL] Unreal C++ DataTable 기반 Wave 시스템 및 아이템 수집 게임 루프 구현"
 author: siha
-date: 2026-06-10 19:21:00 +0900
+date: 2026-06-10 10:20:00 +0800
 categories: [TIL]
 tags: [til,unreal,cpp]
 render_with_liquid: false
